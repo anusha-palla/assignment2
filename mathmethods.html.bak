@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  function math()
+  {
+     document.write(Math.abs(-4)+"<br>");
+	 document.write(Math.acos(30)+"<br>");
+	 document.write(Math.acosh(90)+"<br>");
+	 document.write(Math.asin(0)+"<br>");
+	 document.write(Math.asinh(90)+"<br>");
+	 document.write(Math.atan(45)+"<br>");
+	 document.write(Math.atanh(0)+"<br>");
+	 document.write(Math.log(2)+"<br>");
+	 document.write(Math.exp(1)+"<br>");
+	 document.write(Math.pow(2,3)+"<br>");
+	 document.write(Math.random()+"<br>");
+	 document.write(Math.round(3.14)+"<br>");
+
+
+  }
+  </script>
+ </head>
+ <body>
+  <input type="button" value="click me" onclick="math();">
+ </body>
+</html>

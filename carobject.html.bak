@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  function car(number,name,speed,avg)
+  {
+	  this.number=number;
+	   this.name=name;
+	    this.speed=speed;
+		this.avg=avg;
+		this.average=avger;
+
+	  }
+	  function avger()
+	  {
+		  return this.speed+this.avg;
+		  }
+  </script>
+ </head>
+ <body>
+ <script>
+ var a=new car(2,"tata",30,45.5);
+ document.write(a);
+ document.write("<br>"+a.average());
+ </script>
+  
+ </body>
+</html>

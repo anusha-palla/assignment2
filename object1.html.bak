@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  function university(college,branche,univer)
+  {
+this.college=college;
+this.branche=branche;
+this.univer=univ;
+function univ()
+{
+	return this.college+this.branche;
+	}
+}
+  </script>
+ </head>
+ <body>
+  <script>
+  var u=new university("gist","ece");
+  document.write(u.college+" "+u.branche+" "+u.univ);
+  //document.write(university.univ());
+  </script>
+ </body>
+</html>

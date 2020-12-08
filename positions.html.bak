@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style type="text/css">
+  #fix{
+  position:fixed;
+  bottom:0;
+  right:0;
+  background-color:#ff00ff;
+  }
+  #relat{
+position:relative;
+left:200px;
+top:200px
+  }
+   #ans{
+  width:1100px;
+  height:50px;
+  background-color:red;
+  border:2px thick lime;
+  }
+  #abs{
+  position:absolute;
+  top:300px;
+  right:0px;
+  }
+  </style>
+ </head>
+ <body>
+  <div id="fix">
+  <p>this is first para</p>
+  </div>
+  <div id="relat">
+  <p>this is second para</p>
+  </div>
+  <div id="ans">
+  <p>this is third para</p>
+  </div>
+  <div id="abs">
+  <p>this is four para</p>
+  </div>
+ </body>
+</html>

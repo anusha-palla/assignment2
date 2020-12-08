@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <script>
+  var a=30;
+  var b=30;
+  var c=a%b;
+  c=prompt("enter a,b values : ",c);
+  document.write(c);
+  var b="anu";
+  var x=parseInt(b);
+document.write(x);
+  </script>
+ </body>
+</html>

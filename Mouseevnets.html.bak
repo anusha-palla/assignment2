@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  function colorchange()
+  {
+ document.getElementById("some").style.backGroundColor="lime";
+
+  }
+  function colorchange1()
+  {
+ document.getElementById("some").style.backGroundColor="green";;
+
+  }
+
+  </script>
+  <style type="text/css">
+  #some{
+  height:100px;
+  width:200px;
+  background-color:red;
+  color:blue;
+  }
+  </style>
+ </head>
+ <body>
+  <div id="some" onmouseover="colorchange();" onmouseout="colorchange1();"></div>
+ </body>
+</html>

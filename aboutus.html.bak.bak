@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>
+this is Student Manaement system
+</title>
+<style type="text/css">
+.fix{
+background-color:#ff00cc;
+position:fixed;
+border-color:#ffff00;
+border-style:dotted;
+margin:20px;
+}
+</style>
+</head>
+<body  >
+
+<a  href="Studentmanagmet.html" >back</a>
+<div class="fix">
+<p>As its name implies, the student management system has successfully taken over the works of schools admin department with its efficient online school management software. This software is able to keep a proper record of every student which includes, examinations, attendance, and other activities, it allows payment of fees and many more.</p></div>
+<div class="relat">
+<p>Are you still doubting the efficiency of this open source school management system? You won't have to anymore because right here, we will be taking a look at the amazing benefits of having a school management system and we are pretty sure this will wow your mind.</p></div>
+<div id="ans">
+<h2> 1.Improves The General Performance Of Students</h2>
+<p>For students to come out with good grades, the focus is highly needed. With this school administration software, students are able to use their precious time for relevant things which is studying rather than keep track of their records to make sure things are intact. Moreover, fear of losing important records to manual management is completely off the line with the help of this software.</p></div>
+<div id="abs">
+<h3>1.1. It helps Simply And Streamlines All Task</h3>
+<p>As a teacher, keeping track of all the activities done by each student is never easy and inefficient. But with this online school management software, teachers are able to keep track of each student work and what is yet to be done. In most software, there is a dashboard and a single screen display to make things even easier and more efficient.</p></div>
+
+
+
+<h2>2. Improved Communication</h2>
+
+<p>It's impossible for every student in a class to get each lesson passed across while teaching. This might be a problem on the path of the students being timid or reluctant at that point in time or insufficient time to ask questions. With the help of this software, that has been sorted out. Most online school management software now has an inbuilt discussion panel where students could easily communicate with their teachers and ask relevant questions.</p>
+
+
+
+<h2>3. Can Be Accessed By All Parties Involved</h2>
+
+<p>Gone are the days when parents know little to nothing about what their child or ward does at school. This open source school management system has made it possible for parents to have access to their children's school activities, assignments, attendance, and other relevant information just by using the software.</p>
+
+
+
+<h2>4. Efficient Management And Organization of Timetables</h2>
+
+<p>The management of a school timetable is the work of the admin department of a school. Despite being dedicated to a department, it never correlates. With this software, the reverse is the case. This school administration software is able to organize school timetables in such a way that they won't be a clash of lectures. In addition to that, students, teachers, and parents have access to it.</p>
+
+
+
+<h2>5. Helps To Keep Track Of All Students</h2>
+
+<p>School activity goes beyond the wall of the classrooms. There are other activities like sports, interaction, and other extracurricular activities and all these needs proper documentation. This management software has features that see to that and make sure the record of each student is intact.</P>
+
+
+</body>
+</html>

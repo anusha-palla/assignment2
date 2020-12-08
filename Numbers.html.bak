@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  function numbers(){
+	  if(var n=='a'|| 'e' ||'i' || 'o' || 'u')
+	  {
+		  console.log("this is vowel");
+	  }
+	  else
+	  {
+          for(var i=1;i<n;i++)
+		  {
+			  var falg=0;
+			  for(var j=2;j<i;j++)
+			  {
+				  if(i%j==0)
+				  {
+					  flag=1;
+					  break;
+				  }
+			  }
+			  if(i>1 && flag==0)
+			  {
+                 console.log(i);
+			  }
+		  }
+      }
+
+  </script>
+ </head>
+ <body>
+  Enter the value : <input type="text" name="number"><br>
+  <input type="button" value="click me" onclick="numbers();">
+ </body>
+</html>

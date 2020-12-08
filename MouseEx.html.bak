@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  function some()
+  {
+	  height=300px;
+	  }
+	  function some1()
+	  {
+       height=100px;
+		  }
+  </script>
+ </head>
+ <body>
+  <img id="image" src="htmlimage.png" height="200" width="200" onmouseover="some();"/><br>
+  <img id="image1" src="javaimage.png" height="200" width="200" onmouseout="some1();"/><br>
+
+
+ </body>
+</html>

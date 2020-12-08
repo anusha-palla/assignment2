@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style type="text/css">
+  div{
+  background-color:#ff00ff;
+  width:900px;
+  height:50px;
+  }
+  #first{
+  padding:10px 15px 20px 30px;
+  margin:50px 50px 50px 50px;
+  border:50px dotted red;
+  outline-color:#000000;
+  }
+  #second{
+  padding:10px 15px 20px 30px;
+  margin:50px 50px 50px 50px;
+  border:50px dotted lime;
+  outline-color:#000000;
+
+  }
+  #third{
+  padding:10px 15px 20px 30px;
+  margin:50px 50px 50px 50px;
+  border:50px dotted blue;
+  outline-color:#000000;
+
+  }
+  </style>
+ </head>
+ <body>
+ <div id="first">
+ <p> The class refers to the class attribute of an HTML element.
+The class attribute is used to set a particular style for several HTML element.</p>
+
+</div>
+<div id="second">
+ <p> The class refers to the class attribute of an HTML element.
+The class attribute is used to set a particular style for several HTML element.</p>
+</div>
+<div id="third">
+ <p> The class refers to the class attribute of an HTML element.
+The class attribute is used to set a particular style for several HTML element.</p>
+
+</div>
+ </body>
+</html>

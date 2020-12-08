@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <script>
+  var car={
+	  name:"tata",
+      speed:50, 
+      model:"qbcs",
+      mycar:function(){
+				return this.name+this.model;
+				}
+				};
+  </script>
+ </head>
+ <body>
+  <script>
+  document.write(car.speed);
+  document.write(car.mycar());
+
+  </script>
+ </body>
+</html>

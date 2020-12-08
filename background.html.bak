@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Properties</title>
+  <style type="text/css">
+  body{
+  background-image:url("bike.jpg");
+  background-repeat:no-repeat;
+  background-position:top left;
+  
+}
+p{
+font:italic small-caps 40px verdana;
+color:rgb(0,0,255);
+line-height:1cm;
+text-align:right;
+text-indent:2%;
+text-decoration:underline:
+}
+div{
+min-height:50px;
+background-color:lime;
+}
+ul{
+list-style-image:url("bike.jpg");
+list-style-type:upper-roman;
+list-style-position:outside;
+
+}
+</style>
+ </head>
+ <body>
+ hello
+  <p >The class refers to the class attribute of an HTML element.
+The class attribute is used to set a particular style for several HTML elements.</p>
+<div>
+The class refers to the class attribute of an HTML element.
+The class attribute is used to set a particular style for several HTML element.
+<ul>
+<li>first</li>
+<li>second</li>
+<li>third</li>
+</ul>
+</div>
+ </body>
+</html>
